@@ -1,0 +1,4 @@
+ls 
+date
+whoami
+ifconfig
